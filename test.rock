@@ -1,0 +1,12 @@
+Midnigt takes your heart and your soul (Definerar funktionen midnight som tar in variabeln your heart och yuor soul)
+While your heart is as high as your soul (Medans your heart >= your soul)
+Put your heart without your soul into your heart (Tilldela yuour heart, your heart - your soul)
+
+Give back your heart (returnera your heart)
+
+
+My world is storm (tilldela variabeln My world 5)
+
+Fire is ice (tilldela variabeln Fire 3)
+
+Shout Midnigt taking My World, Fire (skriv ut resultet på funktionen midnigt med indata variblerna My world och Fire)
